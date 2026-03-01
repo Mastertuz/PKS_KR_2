@@ -1,0 +1,10 @@
+# Build outputs
+bin/
+obj/
+
+# Rider/IDE
+.idea/
+*.user
+*.suo
+*.cache
+*.log
